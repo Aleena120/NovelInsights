@@ -12,7 +12,7 @@ header {
   padding: 30px;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
-  font-size: large;
+  font-size: 30px;
 }
 
 /* Body styles */
@@ -27,7 +27,7 @@ body {
 section {
   padding: 20px;
   font-family: Arial, sans-serif;
-
+  font-size: 20px;
 }
 
 /* Search form styles */
