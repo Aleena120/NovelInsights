@@ -31,6 +31,7 @@ section {
 #searchForm {
   display: flex;
   margin-bottom: 20px;
+  width: 20px;
 }
 
 #searchInput {
@@ -53,18 +54,18 @@ section {
   margin: 10px;
   padding: 10px;
   border: 1px solid #ccc;
-  background-color: #fff;
+  background-color: #a9a9a9;
   font-family: Arial, sans-serif;
 }
 
 .bookCard h3 {
   margin-bottom: 10px;
-  color: #333;
+  color: #f5ecec;
   font-size: 18px;
 }
 
 .bookCard p {
   margin-bottom: 5px;
-  color: #666;
+  color: #100202;
   font-size: 14px;
 }
