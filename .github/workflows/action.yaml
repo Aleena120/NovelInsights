@@ -2,7 +2,7 @@ name: actions
 on: workflow_dispatch
 jobs:
   greet:
-  runs-on: ubuntu-latest
-  steps:
-    - name: say hi
-      run: echo "hi"
+   runs-on: ubuntu-latest
+   steps:
+     - name: say hi
+       run: echo "hi"
